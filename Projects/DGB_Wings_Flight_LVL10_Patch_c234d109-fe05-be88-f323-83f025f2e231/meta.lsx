@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="c234d109-fe05-be88-f323-83f025f2e231"/>
+            <attribute id="Name" type="LSString" value="DGB_Wings_Flight_LVL10_Patch"/>
+            <attribute id="UUID" type="LSString" value="7e4d8ea1-b486-a786-f409-fedaa3a43e37"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
